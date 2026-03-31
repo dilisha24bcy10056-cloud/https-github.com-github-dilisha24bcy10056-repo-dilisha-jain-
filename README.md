@@ -3,11 +3,11 @@
 ## Student Information
 | Field | Details |
 |-------|---------|
-| **Name** | Sonal Yadav |
-| **Roll Number** | 24BAI10361|
-| **Slot** | A11 |
+| **Name** | DILISHA JAIN |
+| **Roll Number** | 24BCY10056|
+| **Slot** | F11 |
 | **Course** | Open Source Software |
-| **Date of Submission** | 30/03/2026 |
+| **Date of Submission** | 31/03/2026 |
 
 ## Chosen Software
 **Git** - A distributed version control system created by Linus Torvalds in 2005. Git is designed for speed, data integrity, and distributed non-linear workflows, making it the most widely used version control system in modern software development.
@@ -44,8 +44,9 @@ All scripts use standard Linux commands that come pre-installed on most distribu
 STEP BY STEP INSTRUCTIONS
 1. Clone or Download the Repository
 bash
-git clone https://github.com/sonal-yadav02/OSS-audit--24BAI10361-.git
-cd OSS-audit-24BAI10361
+git clone https-github.com-github-dilisha24bcy10056-repo-dilisha-jain-
+
+cd OSS-audit-24BCY10056
 2. Make All Scripts Executable
 bash
 chmod +x *.sh
